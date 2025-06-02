@@ -1,0 +1,12 @@
+#div2 a:hover {
+    color: #2ecc71;
+    text-decoration: underline;
+}
+
+#div2 a:visited {
+    color: #9b59b6;
+}
+
+#div2 a:active {
+    color: #e74c3c;
+}
